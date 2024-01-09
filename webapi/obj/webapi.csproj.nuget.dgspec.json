@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\VueWithASP\\webapi\\webapi.csproj": {}
+    "D:\\Project\\NbList\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "D:\\Project\\VueWithASP\\webapi\\webapi.csproj": {
+    "D:\\Project\\NbList\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\VueWithASP\\webapi\\webapi.csproj",
+        "projectUniqueName": "D:\\Project\\NbList\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "D:\\Project\\VueWithASP\\webapi\\webapi.csproj",
+        "projectPath": "D:\\Project\\NbList\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\ccxie\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\VueWithASP\\webapi\\obj\\",
+        "outputPath": "D:\\Project\\NbList\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.309\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://tm.gis.tw/geosense_nuget/nuget": {}
         },
@@ -74,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,2 +1,3 @@
 D:\Project\VueWithASP\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
 D:\Project\VueWithASP\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
+D:\Project\NbList\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
